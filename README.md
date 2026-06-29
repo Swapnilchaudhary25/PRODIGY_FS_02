@@ -44,7 +44,7 @@ PRODIGY_FS_02/
 # **📦 Installation & Running Locally**
 
 ## **Clone the repository**   
-[git clone](https://github.com/Saurabh9122-tech/PRODIGY_FS_02.git)     
+  
 cd PRODIGY_FS_02/backend  
 ## **Install backend dependencies**
 npm install  
